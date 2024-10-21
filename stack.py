@@ -48,6 +48,6 @@ def reverse_string(my_string):
     return reversed_string
 
 
-result = reverse_string(
-    "!sedarg doog teg annoG\nssalc ni sessa rieht kcik annoG")
-print(result)
+# result = reverse_string(
+#     "!sedarg doog teg annoG\nssalc ni sessa rieht kcik annoG")
+# print(result)
