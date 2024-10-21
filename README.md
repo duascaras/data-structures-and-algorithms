@@ -35,3 +35,17 @@ DFS typically uses a stack to keep track of unexplored nodes, pushing nodes onto
 4. If not, push all its unvisited neighbors onto the stack.
 5. Repeat until the stack is empty or the goal is found.
 ```
+
+## Queue
+A data structure in which items are inserted at the back (tail) and removed from the front (head), following the First In, First Out (FIFO) principle.
+
+### Queue Characteristics
+FIFO Data Structure: The first item added to the queue will be the first one to be removed.
+
+### Common Queue Operations
+
+- Enqueue: add an item to the back of the queue
+- Dequeue: remove and return the front item
+- Peek: return the front item without removing it
+- Is_empty: return true if the queue is empty
+- Size: return the number of items in the queue
